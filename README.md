@@ -1,1 +1,12 @@
-# Initial repo for list of curated GCP educational resources.
+# Curated List of GCP educational resources
+
+## Online Courses
+
+## Tutorials
+
+## Notebooks
+
+## Solutions
+
+## Slide Decks
+
