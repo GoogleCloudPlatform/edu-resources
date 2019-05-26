@@ -1,6 +1,7 @@
 # Curated List of GCP educational resources
 
 ## Online Courses
+
 * [Coursera GCP Courses](https://www.coursera.org/courses?query=gcp)
 
 ## Books
@@ -13,6 +14,10 @@
 * [Qwiklabs](google.qwiklabs.com)
 
 ## Notebooks
+
+* [Google Colab](colab.research.google.com)
+* [AI Platform Notebooks](https://cloud.google.com/ai-platform-notebooks/)
+* [Seedbank](https://research.google.com/seedbank/)
 
 ## Solutions
 
