@@ -56,7 +56,7 @@ _(coming soon)_
 ## Working with other public clouds
 GCP isn't the only public cloud out there. It's a vibrant market with many vendors. Below are resources to consider when working with other public clouds.
 
-* [Know AWS? Compare to GCP](https://cloud.google.com/docs/compare/aws/) &mdash; -- This page is for you if you're familiar with using AWS and want to see the equivalent tools on GCP.
+* [Know AWS? Compare to GCP](https://cloud.google.com/docs/compare/aws/) &mdash; -- This section in the GCP documentation is for you if you're familiar with using AWS and want to discover the equivalent tools on GCP. There are also specific drilldowns found at the bottom should you want to get more product-level comparisons.
 
 
 
