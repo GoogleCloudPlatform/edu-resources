@@ -32,7 +32,15 @@ Jupyter notebooks are becoming extremely popular in many different classes, espe
 * [Cloud Datalab](https://cloud.google.com/datalab/docs/how-to/working-with-notebooks) Another GCP tool to provide a notebook server.
 * [Seedbank](https://research.google.com/seedbank/) A collection of interactive Machine Learning examples, designed to be used in Colab.
 
-## Resources
+## General Resources
+
+* [Kaggle](https://www.kaggle.com/) A WWW site with [public data sets](https://www.kaggle.com/datasets), data science 
+contests, [learning materials for numerous topics](https://www.kaggle.com/learn/overview) 
+(Python, Data science, ML, SQL, etc.), numerous tutorials (including 
+[Titanic](https://www.kaggle.com/eraaz1/a-comprehensive-guide-to-titanic-machine-learning) 
+and MNIST), and sample solutions. Also allows faculty to run [their own contests in class](https://www.kaggle.com/about/inclass/overview).
+
+## Grant Programs
 GCP has a number of different grant programs, listed below.
 
 * [GCP teaching grants](https://edu.google.com/programs/credits/teaching/)
