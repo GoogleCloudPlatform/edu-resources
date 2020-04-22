@@ -34,6 +34,7 @@ Jupyter notebooks are becoming extremely popular in many different classes, espe
 * [Cloud Datalab](https://cloud.google.com/datalab/docs/how-to/working-with-notebooks) Another GCP tool to provide a notebook server.
 * [Seedbank](https://research.google.com/seedbank/) A collection of interactive Machine Learning examples, designed to be used in Colab.
 
+
 ## General Resources
 
 * [Kaggle](https://www.kaggle.com/) A WWW site with [public data sets](https://www.kaggle.com/datasets), data science 
@@ -41,11 +42,7 @@ contests, [learning materials for numerous topics](https://www.kaggle.com/learn/
 (Python, Data science, ML, SQL, etc.), numerous tutorials (including 
 [Titanic](https://www.kaggle.com/eraaz1/a-comprehensive-guide-to-titanic-machine-learning) 
 and MNIST), and sample solutions. Also allows faculty to run [their own contests in class](https://www.kaggle.com/about/inclass/overview).
-
-## Solutions and Course Materials
-There are many faculty who share much of their course material on-line.  These include the following:
-* [The Database Whisperer](https://github.com/hymanphd/Database-Whisperer-Docs) Materials to go with Harvey Hyman's ISM 4212 course at USF.
-* [ART350 video experimentation toolkit](https://github.com/realtechsupport/ActionCameraCode) Materials from the Department of Art at the University of Buffalo.
+* GCP hackathon toolkit (https://github.com/GoogleCloudPlatform/hackathon-toolkit) Variety of GCP resources for hackathons.
 
 
 ## Videos
@@ -55,9 +52,6 @@ series of 4 to 9 minute videos focusing on introductory level GCP, including top
 compute options, serverless computing, machine learning, and data storage.  There are currently 8 videos, 
 but they seems to add 1 per month.
 
-## Slide Decks
-
-_(coming soon)_
 
 ## Grant Programs
 GCP has a number of different grant programs, listed below.
@@ -71,8 +65,22 @@ Here's a quick comparison of those programs.
 
 ![comparison of above edu programs](https://user-images.githubusercontent.com/1102504/59053652-c377b000-8846-11e9-90c2-70875c1c7f21.png)
 
-## Working with other public clouds
-GCP isn't the only public cloud out there. It's a vibrant market with many vendors. Below are resources to consider when working with other public clouds.
+
+## Solutions and Course Materials
+
+There are many faculty who share much of their course material online.  These include the following:
+* [The Database Whisperer](https://github.com/hymanphd/Database-Whisperer-Docs) Materials to go with Harvey Hyman's ISM 4212 course at USF.
+* [ART350 video experimentation toolkit](https://github.com/realtechsupport/ActionCameraCode) Materials from the Department of Art at the University of Buffalo.
+* [Repo of Cloud Computing curriculum resources](https://github.com/cloudcomputingcurricula/Cloud-Computing-Curricula) A repo of a variety of cloud computing teaching resources.
+
+
+## Slide Decks
+
+_(coming soon)_
+
+
+## Other public clouds
+This repo is focused on GCP, but below are resources to consider when working with other public clouds.
 
 * [Know AWS? Compare to GCP](https://cloud.google.com/docs/compare/aws/) &mdash; This section in the GCP documentation is for you if you're familiar with using AWS and want to discover the equivalent tools on GCP. There are also specific drilldowns found at the bottom should you want to get more product-level comparisons.
 
