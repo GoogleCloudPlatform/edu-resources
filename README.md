@@ -66,7 +66,7 @@ Here's a quick comparison chart for many of those programs:
 ## Solutions and Course Materials
 
 There are many faculty who share much of their course material online. These include the following:
-- [The Database Whisperer](https://github.com/hymanphd/Database-Whisperer-Docs) Materials to go with Harvey Hyman's ISM 4212 course at USF.
+- [The Database Whisperer](https://github.com/hymanphd-database-whisperer) Materials to go with Harvey Hyman's ISM 4212 course at USF.
 - [ART350 video experimentation toolkit](https://github.com/realtechsupport/ActionCameraCode) Materials from the Department of Art at the University of Buffalo.
 - [Repo of Cloud Computing curriculum resources](https://github.com/cloudcomputingcurricula/Cloud-Computing-Curricula) A repo of a variety of cloud computing teaching resources.
 
